@@ -58,6 +58,10 @@ ul {
   margin-bottom: 28px;
 }
 
+ul li {
+  text-decoration: none;
+}
+
 .content {
   max-width: 600px;
   font-size: 16px;
