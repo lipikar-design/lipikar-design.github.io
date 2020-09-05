@@ -63,6 +63,7 @@ ul li {
 }
 
 .content {
+  text-decoration: none;
   max-width: 600px;
   font-size: 16px;
 }
